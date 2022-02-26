@@ -29,9 +29,9 @@ Note: The starter code shows example calculations and figures to use as a guide.
 [Yen Data CSV File](Starter_Code/yen.csv)
 
 - - -
-
-## Instructions
-
+<details>
+<summary>## Instructions</summary>
+<br>
 ### Time-Series Forecasting
 
 In this notebook, you will load historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling to determine whether there is any predictable behavior.
@@ -144,3 +144,4 @@ Use the results of the linear regression analysis and modeling to answer the fol
 ---
 
 © 2021 Trilogy Education Services
+</details>
