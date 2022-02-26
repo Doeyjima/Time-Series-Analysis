@@ -161,3 +161,11 @@ import arch as arch
 from arch import arch_model
 ```
 </details>
+![Yen Futures Settle Price](Images/IntialSeriesPlotting.psd)
+
+![Settle Vs Trend](Images/SettleVsTrend.psd)
+
+![Settle Noise](Images/settlenoise.psd)
+
+![ARMA Model](Images/ArmaModel.png)
+![5 Day Return  ](Images/5dayreturn.png)
