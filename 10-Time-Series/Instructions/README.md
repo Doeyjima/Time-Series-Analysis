@@ -30,7 +30,7 @@ Note: The starter code shows example calculations and figures to use as a guide.
 
 - - -
 <details>
-<summary>## Instructions</summary>
+<summary> Instructions</summary>
 <br>
 ### Time-Series Forecasting
 
@@ -144,4 +144,19 @@ Use the results of the linear regression analysis and modeling to answer the fol
 ---
 
 © 2021 Trilogy Education Services
+</details>
+<details> 
+ <summary>Import Libraries</summary>
+  <br>
+  
+  import numpy as np
+import pandas as pd
+from pathlib import Path
+%matplotlib inline
+import statsmodels.api as sm
+from statsmodels.tsa.arima_model import ARMA
+from statsmodels.tsa.arima_model import ARIMA
+import statsmodels.api as sm
+import arch as arch
+from arch import arch_model
 </details>
