@@ -147,7 +147,7 @@ Use the results of the linear regression analysis and modeling to answer the fol
 </details>
 <details> 
  <summary>Import Libraries</summary>
-  <br>
+  
 '''java 
 import numpy as np
 import pandas as pd
